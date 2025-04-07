@@ -1,0 +1,6 @@
+streamlit==1.10.0
+pandas==1.5.2
+yfinance==0.1.70
+pandas_ta==0.3.14
+telegram==0.0.0
+numpy==1.21.4
